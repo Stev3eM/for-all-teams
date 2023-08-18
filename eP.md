@@ -1,5 +1,6 @@
 # eP list
-More information 
+Max eP demos per week.
+Deadline: Week 10 of each semester.
 
 ## How to reserve
 - Step 1: select a topic from the following list
