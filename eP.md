@@ -40,7 +40,7 @@ _Demo use case: cookie clicker game_
 - [ ] MVC - Ruby Rails		
 - [ ] MVC - WPF		
 			
-### Development		Semester 3 or Semester 4, any week	
+### Development tools, Semester 3 or Semester 4, any week	
 
 _API development_
 
