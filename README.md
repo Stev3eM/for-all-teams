@@ -1,3 +1,4 @@
-- Lecture '_Software Engineering I_'  for course TINF22B6 at [Baden-Wuerttemberg Cooperative State University (DHBW)](https://www.dhbw.de/english/home)
-
-- This GitHub-organisation hosts all code repos, documentation, status reports etc. for the project assignment in Semesters 3 & 4
+# Software Engieering I
+## Useful information
+- How to write and format md files? Check [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github).
+- eP list
