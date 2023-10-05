@@ -90,7 +90,7 @@ _Development platforms, languages, frameworks_
 - [ ] MongoDB	https://www.mongodb.com/	NoSQL database
  
 - [ ] Godot	https://godotengine.org/	Game engine
-- [ ] UNITY	https://unity.com/	Game engine
+- [x] UNITY	https://unity.com/	Game engine
 - [ ] Solar2D	https://solar2d.com/	Game engine
 			
 - [x] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
