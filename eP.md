@@ -45,7 +45,7 @@ _Demo use case: cookie clicker game_
 _API development_
 
 - [ ] Apiary	https://apiary.io/	
-- [ ] GraphQL	http://graphql.org/
+- [x] GraphQL	http://graphql.org/
 - [ ] SWAGGER	https://swagger.io/	
 - [ ] Postman	https://www.postman.com/	
 - [ ] gRPC	https://grpc.io/	
