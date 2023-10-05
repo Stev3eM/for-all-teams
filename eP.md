@@ -47,7 +47,7 @@ _API development_
 - [ ] Apiary	https://apiary.io/	
 - [ ] GraphQL	http://graphql.org/
 - [ ] SWAGGER	https://swagger.io/	
-- [x] Postman	https://www.postman.com/	
+- [x] Postman	https://www.postman.com/ (Nicolas Maiwald)	
 - [ ] gRPC	https://grpc.io/	
 
 _Development platforms, languages, frameworks_
