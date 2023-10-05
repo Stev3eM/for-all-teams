@@ -93,7 +93,7 @@ _Development platforms, languages, frameworks_
 - [ ] UNITY	https://unity.com/	Game engine
 - [ ] Solar2D	https://solar2d.com/	Game engine
 			
-- [ ] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
+- [x] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
 			
 ### Deployment		Semester 4, Weeks 1-4	
 - [ ] Traefik 	https://traefik.io/traefik/	HTTP reverse proxy and load balancer 
