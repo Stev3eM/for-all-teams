@@ -86,7 +86,7 @@ _Development platforms, languages, frameworks_
 			
 - [ ] Hibernate	https://hibernate.org/	Dramework for mapping an object-oriented domain model to a relational database
  
-- [ ] Kafka	https://kafka.apache.org/	Distributed event store and stream-processing platform
+- [x] Kafka	https://kafka.apache.org/	Distributed event store and stream-processing platform
 - [ ] MongoDB	https://www.mongodb.com/	NoSQL database
  
 - [ ] Godot	https://godotengine.org/	Game engine
