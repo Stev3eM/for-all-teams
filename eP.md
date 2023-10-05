@@ -56,7 +56,7 @@ _Development platforms, languages, frameworks_
 - [ ] Flutter	https://flutter.dev/	Develope cross-platform applications (developed by Google)
 - [ ] Android Studio	https://developer.android.com/studio	IDE for Android apps. Demo should cover CI/CD with Android studio (https://developer.android.com/studio/workflow)
 - [ ] Kotlin	https://kotlinlang.org/	Programming language. Good for Android.
-- [ ] Go	https://golang.org/	Programming language supported by Google
+- [x] Go	https://golang.org/	Programming language supported by Google
 - [ ] Swift	https://developer.apple.com/swift/	Programming language for all Apple platforms
 - [ ] Rust	https://www.rust-lang.org/	Programming language for high performance software
 - [ ] Vaadin	https://vaadin.com/	Java web development framework
