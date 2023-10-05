@@ -24,7 +24,7 @@ _Behavior-Driven Development_
 			
 ### CI/CD		Semester 3, Weeks 5-7	
 - [ ] Github Actions	https://github.com/features/actions	
-- [ ] Jenkins	https://www.jenkins.io/
+- [X] Jenkins	https://www.jenkins.io/
 - [ ] Azure	https://azure.microsoft.com/en-us/	
 - [ ] TeamCity	https://www.jetbrains.com/teamcity/ci-cd-guide/	
 - [ ] BitBucket	https://bitbucket.org/product/	
@@ -90,7 +90,7 @@ _Development platforms, languages, frameworks_
 - [ ] MongoDB	https://www.mongodb.com/	NoSQL database
  
 - [ ] Godot	https://godotengine.org/	Game engine
-- [x] UNITY	https://unity.com/	Game engine
+- [ ] UNITY	https://unity.com/	Game engine
 - [ ] Solar2D	https://solar2d.com/	Game engine
 			
 - [x] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
