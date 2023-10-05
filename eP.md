@@ -28,7 +28,7 @@ _Behavior-Driven Development_
 - [ ] Azure	https://azure.microsoft.com/en-us/	
 - [ ] TeamCity	https://www.jetbrains.com/teamcity/ci-cd-guide/	
 - [ ] BitBucket	https://bitbucket.org/product/	
-- [ ] GitLab	https://gitlab.com/gitlab-org/gitlab	
+- [x] GitLab	https://gitlab.com/gitlab-org/gitlab	
 			
 ### MVC		Semester 3, any week	
 _Demo use case: cookie clicker game_
